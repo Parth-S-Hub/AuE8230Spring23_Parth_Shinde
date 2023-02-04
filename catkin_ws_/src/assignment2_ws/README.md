@@ -1,4 +1,4 @@
-# Assignment_2 Turtlesim 
+# Assignment_1b Turtlesim 
 
 The src folder contains the launch and scripts folder which will contain the .py scripts and launch files
 
