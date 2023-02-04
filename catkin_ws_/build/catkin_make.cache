@@ -1,0 +1,2 @@
+assignment2_ws
+-DCATKIN_DEVEL_PREFIX=/home/parth/AuE8230Spring23_Parth_Shinde/catkin_ws_/devel -DCMAKE_INSTALL_PREFIX=/home/parth/AuE8230Spring23_Parth_Shinde/catkin_ws_/install -G Unix Makefiles
